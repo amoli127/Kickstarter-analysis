@@ -12,3 +12,5 @@ We initially contrasted data from Louise's Theather campaign category with campa
 
 The theater category has three subcategories: musicals, plays, and spaces. So we unraveled the data further to find out how the play's subcategory compares to musicals and spaces. After filtering the information, we identified that 412 play campaigns were successful, compared to 45 for musicals and 68 for spaces. The graph below shows how the plays subcategory makes up most of the theater campaigns. Of 671 play campaigns, 412 (61%) were successful, 250 (37%) failed, 15 (2%) were canceled, and three were live at the time the data was collected
 
+![Theater Subcategory Outcomes](https://user-images.githubusercontent.com/117063056/209304086-6d1cc394-f09e-4953-ae11-fdee11fe1884.png)
+
