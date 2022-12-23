@@ -15,8 +15,29 @@ The theater category has three subcategories: musicals, plays, and spaces. So we
 ![Theater Subcategory Outcomes](https://user-images.githubusercontent.com/117063056/209304086-6d1cc394-f09e-4953-ae11-fdee11fe1884.png)
 ### Analysis of Outcomes Based on Launch Date
 One of the factors we examined from the data was how important a campaign's launch date is to its success. The data from the theater campaigns shows that May and June were the months in which the most successful Kickstarter campaigns were launched. On the other hand, the data also shows that there were more failed campaigns in December.
+
+
 ![Theater Outcomes vs Launch](https://user-images.githubusercontent.com/117063056/209306328-ef105e7b-bc8f-4042-a322-81b52c238f14.png)
+
+
 ### Analysis of Outcomes Based on Goals
 In order to have a better understanding of the role that the amount of the goal plays, we evaluated the outcomes of all the categories to know how many were successful and in which bracket they were. Of the 186 Kickstarter campaigns with a goal of less than $1,000, 76% were successful, followed by 534 campaigns with goals between $1,000 and $4,999, with 73% success. In contrast, campaigns with a goal of $50,000 or more only had 13% campaign success and 88% campaign failure. It is worth mentioning that campaigns with a goal between $15,000 and $19,999 had 50% successful and 50% failed campaigns.
 
+
+![Outcomes vs Goals](https://user-images.githubusercontent.com/117063056/209309254-08282ae5-f9f2-4b0b-b879-993a71042894.png)
+
+
+### Challenges and Difficulties Encountered
+
+One of the most significant difficulties and challenges was calculating the results based on the goals. Using the COUNTIFS formula has little room for error due to the number of goal categories.
+
+## Results
+
+- Based on the launch date, we can conclude that Louise should avoid launching her campaign in winter, especially in December. Louise should aim to launch her campaign in May, June, or July, as these months have the most successful campaigns.
+
+- Taking into account how successful the Kickstarter campaigns were, based on their goals, Louise's estimated $10,000 amount falls into the bracket of $10,000 and $14,999. 54% of the campaigns in this bracket were successful, and 46% failed. Louise should revise the amount and see if there is a possibility to lower the goal since the data shows that campaigns with a smaller amount as a goal have a greater number of successful campaigns.
+
+- This dataset's limitations are that there is no information on the follow-up of the successful campaigns and how the results were after reaching their goal. This data would help us know if the estimate was correct, if the campaigns needed more funds, or if there are other factors that influenced their success in addition to what we can observe.
+
+- Another type of chart we could have used is a pie chart to illustrate how campaign money is budgeted.
 
