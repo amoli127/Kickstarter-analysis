@@ -14,6 +14,9 @@ The theater category has three subcategories: musicals, plays, and spaces. So we
 
 ![Theater Subcategory Outcomes](https://user-images.githubusercontent.com/117063056/209304086-6d1cc394-f09e-4953-ae11-fdee11fe1884.png)
 ### Analysis of Outcomes Based on Launch Date
-One of the factors we examined from the data was how important a campaign's launch date is to its success. The data from the theater campaigns shows that May and June were the months in which the most successful Kickstarter campaigns were launched. On the other hand, the data also shows that in December, there were more failed campaigns.
+One of the factors we examined from the data was how important a campaign's launch date is to its success. The data from the theater campaigns shows that May and June were the months in which the most successful Kickstarter campaigns were launched. On the other hand, the data also shows that there were more failed campaigns in December.
+![Theater Outcomes vs Launch](https://user-images.githubusercontent.com/117063056/209306328-ef105e7b-bc8f-4042-a322-81b52c238f14.png)
+### Analysis of Outcomes Based on Goals
+In order to have a better understanding of the role that the amount of the goal plays, we evaluated the outcomes of all the categories to know how many were successful and in which bracket they were. Of the 186 Kickstarter campaigns with a goal of less than $1,000, 76% were successful, followed by 534 campaigns with goals between $1,000 and $4,999, with 73% success. In contrast, campaigns with a goal of $50,000 or more only had 13% campaign success and 88% campaign failure. It is worth mentioning that campaigns with a goal between $15,000 and $19,999 had 50% successful and 50% failed campaigns.
 
 
